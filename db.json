@@ -1,0 +1,64 @@
+{
+    "blogs":[{
+        "title":"venom",
+        "body":"let there be carnage",
+        "author":"Benjamin",
+        "image":"https://www.cinehorizons.net/sites/default/files/affiches/948236296-venom.jpg",
+        "id":1
+    },{
+        "title":"Superman",
+        "body":"episode 9",
+        "author":"Asumadu",
+        "image":"https://wallpapersmug.com/download/1024x768/3c1747/superman-movie-confident.jpg",
+        "id":2
+    },{
+        "title":"Spiderman home coming",
+        "body":"episode 20",
+        "author":"James",
+        "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/fceeeb53513561.593722a952554.jpg",
+        "id":3
+    },{"title":"Eternals",
+     "body":"The Deviants",
+     "author":"James Author",
+     "image":"https://toptenfamous.com/wp-content/uploads/2021/05/eternals-1024x453.png",
+
+     "id":4
+     },{
+         "title":"Red Notice",
+         "body":"The red notice",
+         "author":"Diana ",
+        "image":"https://greenenergyanalysis.com/wp-content/uploads/2021/07/Red-Notice.jpg",
+
+         "id":5
+        },
+        {
+            "title":"Gotham",
+            "body":"who is done",
+            "author":"Thomas Wayne",
+            "image":"https://image.tmdb.org/t/p/original/4wF8fEJhQiK1nsRtKAnNRR7O65S.jpg",
+    
+            "id":6},
+            {
+                "title":"Into the badlands",
+                "body":"who is done",
+                "author":"Thomas Wayne",
+                "image":"https://argottraduccion.com/wp-content/uploads/2017/05/into-the-badlands-season-2.jpeg",
+        
+                "id":7},
+                {
+                    "title":"Peaky Blinders",
+                    "body":"who is done",
+                    "author":"Thomas Wayne",
+                    "image":"http://insidemediatrack.com/wp-content/uploads/2013/10/4120229-high-peaky-blinders2.jpg",
+            
+                    "id":8},
+                    {
+                        "title":"The avengers",
+                        "body":"who is done",
+                        "author":"Thomas Wayne",
+                        "image":"https://images.thedirect.com/media/article_big/avengers-status.jpg?imgeng=cmpr_75/",
+                
+                        "id":9}
+]
+
+}
